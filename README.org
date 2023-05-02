@@ -1,0 +1,22 @@
+#+latex: <div align="center">
+#+title: Dominik Keller
+#+latex: </div>
+
+#+latex: <div align="center">
+- Personal projects mostly writen in Rust and Emacs Lisp.
+- Working on Emacs packages, CLI tools and small experiments.
+- Interested in interpreters and compilers.
+#+latex: </div>
+
+* Projects
+#+latex: <div align="center">
+- [[https://github.com/Domse007/.emacs.d][domse007/.emacs.d]]: This repository hosts my personal emacs configuration.
+- [[https://github.com/Domse007/org-roam-learn][domse00/org-roam-learn]]: (*WIP)* An Emacs package that extends [[https://github.com/org-roam/org-roam][org-roam]] to learn nodes.
+- [[https://github.com/Domse007/org-roam-peek][domse007/org-roam-peek]]: (*WIP*) An Emacs package to automatically show a preview of linked nodes.
+#+latex: </div>
+
+* Stats
+#+latex: <div align="center">
+[[https://github-readme-stats.vercel.app/api?username=domse007&show_icons=true&hide_border=true&count_private=true&theme=dark][Dominik Kellers GitHub stats]]
+[[https://github-readme-stats.vercel.app/api/top-langs/?username=domse007&show_icons=true&hide_border=true&theme=dark][Dominik Kellers Language usage]]
+#+latex: </div>
