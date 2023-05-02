@@ -1,6 +1,6 @@
-#+latex: <div align="center">
-#+HTML: <h1>Dominik Keller</h1>
-#+latex: </div>
+#+html: <div align="center">
+#+html: <h1>Dominik Keller</h1>
+#+html: </div>
 
 - Personal projects mostly writen in Rust and Emacs Lisp.
 - Working on Emacs packages, CLI tools and small experiments.
@@ -12,7 +12,7 @@
 - [[https://github.com/Domse007/org-roam-peek][domse007/org-roam-peek]]: (*WIP*) An Emacs package to automatically show a preview of linked nodes.
 
 * Stats
-#+latex: <div align="center">
-#+HTML: <img alt="User stats" src="https://github-readme-stats.vercel.app/api?username=domse007&show_icons=true&hide_border=true&count_private=true&theme=dark">
-#+HTML: <img alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domse007&show_icons=true&hide_border=true&theme=dark">
-#+latex: </div>
+#+html: <div align="center">
+#+html: <img alt="User stats" src="https://github-readme-stats.vercel.app/api?username=domse007&show_icons=true&hide_border=true&count_private=true&theme=dark">
+#+html: <img alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=domse007&show_icons=true&hide_border=true&theme=dark">
+#+html: </div>
