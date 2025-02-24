@@ -7,6 +7,8 @@
 - Interested in interpreters and compilers.
 
 * Projects
+- [[https://github.com/Domse007/org-roam-rs][domse007/org-roam-rs]]: A (*WIP*) org-roam-ui alternative with some
+  additional features.
 - [[https://github.com/Domse007/.emacs.d][domse007/.emacs.d]]: This repository hosts my personal emacs configuration.
 - [[https://github.com/Domse007/org-roam-learn][domse00/org-roam-learn]]: (*WIP)* An Emacs package that extends [[https://github.com/org-roam/org-roam][org-roam]] to learn nodes.
 - [[https://github.com/Domse007/org-roam-peek][domse007/org-roam-peek]]: (*WIP*) An Emacs package to automatically show a preview of linked nodes.
